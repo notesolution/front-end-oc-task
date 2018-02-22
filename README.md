@@ -5,6 +5,7 @@
 
 ## Goal of the task
   Your goal here is to build a simple calendar app in React. The app allows users to create appointments for any date and see already created events for the currently active month.
+  
 ## Todo list
   - [ ] Create a calendar grid for the given month and year. Make sure that every month starts from the appropriate day of the week.
   - [ ] Add a feature that allows users to switch month and year
