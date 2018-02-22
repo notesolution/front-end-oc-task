@@ -30,7 +30,7 @@ Read more: [facebook/create-react-app](https://github.com/facebook/create-react-
 
 ## Additional Notes
   - Using React.js is required
-  - You can use any additional library if you need to
+  - You can't use JS calendar libs
   - If you want to use SCSS, just add a `src/**/*.scss` file. The watcher will find every Sass file in `src` subdirectories, and create a corresponding CSS file next to it. You can also use any other preprocessor if you want. See [Adding a CSS Preprocessor (Sass, Less etc.)](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc)
 
 If you're stuck on a bug or something needs clarification you can email [Eldar Khalilov](mailto:eldar@oneclass.com) for help.
