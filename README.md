@@ -1,4 +1,3 @@
-Test
 # Calendar App
   Hello! 👋
 
