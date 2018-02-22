@@ -1,4 +1,4 @@
-# Calendar App
+# Take home assignment - Calendar App
   Hello! 👋
 
   Congratulations on making it to the second round! 
