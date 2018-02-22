@@ -1,7 +1,7 @@
 # Calendar App
   Hello! 👋
 
-  This is our task for potential front-end hires.
+  Congratulations on making it to the second round! 
 
 ## Goal of the task
   Your goal here is to build a simple calendar app in React. The app allows users to create appointments for any date and see already created events for the currently active month.
